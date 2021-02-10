@@ -163,8 +163,8 @@ public class ihealthman extends AppCompatActivity {
         // Create a new user with a first, middle, and last name
 
         // Create a new user with a first, middle, and last name
-        Map<String, Object> title = new HashMap<>();
-        title.put("Ihealth", code);
+//        Map<String, Object> title = new HashMap<>();
+//        title.put("gps", [22.4, 22.3]);
 
         String username;
 

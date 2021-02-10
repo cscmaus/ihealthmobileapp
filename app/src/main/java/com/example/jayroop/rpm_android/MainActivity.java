@@ -1,7 +1,7 @@
 package com.example.jayroop.rpm_android;
 
 import android.content.Intent;
-import android.content.IntentSender;
+import android.content.IntentSender;timer
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button heartButton;
     private Button dataButton;
     private Button sessionButton;
-
 
 
     @Override
